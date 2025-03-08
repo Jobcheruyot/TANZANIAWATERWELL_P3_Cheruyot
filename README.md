@@ -36,7 +36,7 @@ Challenges: Class imbalance affecting minority class predictions
 
 **CONCLUSION**
 
-The analysis provides valuable insights into the factors influencing system functionality. The model, particularly Random Forest (72.72% accuracy), effectively classifies functional and non-functional cases, helping stakeholders make data-driven decisions. However, some misclassifications exist in the data, emphasizing the need for continuous model improvement and expert validation.
+The analysis provides valuable insights into the factors influencing system functionality. The model, particularly Random Forest (80% accuracy), effectively classifies functional and non-functional cases, helping stakeholders make data-driven decisions. However, some misclassifications exist in the data, emphasizing the need for continuous model improvement and expert validation.
 
 **RECOMMENDATION**
 1. Use Insights for Proactive Decision-Making – Prioritize maintenance and interventions based on model predictions to prevent failures.
@@ -46,5 +46,9 @@ The analysis provides valuable insights into the factors influencing system func
 5. Monitor Model Performance – Evaluate and adjust the model periodically to adapt to changes in data patterns
 
    ![image](https://github.com/user-attachments/assets/cd12b77a-2562-4c6f-9159-2fa7333a2aa0)
-[Tanzanian waterwell.pptx](https://github.com/user-attachments/files/19143941/Tanzanian.waterwell.pptx)
+
+   Rainforest with an accuracy of 80%
+   
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/fd6fa332-c112-48e9-94ff-8f3d45c436cb" />
+
 
