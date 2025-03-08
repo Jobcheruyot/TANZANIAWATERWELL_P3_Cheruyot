@@ -46,4 +46,5 @@ The analysis provides valuable insights into the factors influencing system func
 5. Monitor Model Performance – Evaluate and adjust the model periodically to adapt to changes in data patterns
 
    ![image](https://github.com/user-attachments/assets/cd12b77a-2562-4c6f-9159-2fa7333a2aa0)
+[Tanzanian waterwell.pptx](https://github.com/user-attachments/files/19143941/Tanzanian.waterwell.pptx)
 
