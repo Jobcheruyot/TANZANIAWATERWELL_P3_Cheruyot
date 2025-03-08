@@ -2,7 +2,7 @@
 **OVERVIEW**
 
 This project applies machine learning techniques to predict system functionality based on historical data. 
-Multiple models were tested, with Random Forest achieving the highest accuracy (72.72%). 
+Multiple models were tested, with Random Forest achieving the highest accuracy (80%). 
 The analysis aims to support data-driven decision-making for resource allocation, maintenance 
 planning, and operational efficiency.
 
