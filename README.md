@@ -1,4 +1,10 @@
 
+**PROBLEM STATEMENT**
+
+This problem we intend to solve is addressing water access challenges in Tanzania through predictive modeling. We build a classification model to identify which water wells require repairs, enabling proactive maintenance and ensuring reliable access to clean drinking water. By leveraging multiple machine learning techniques to provide governmental agencies and other interested agencies with data-driven insights to improve resource allocation and infrastructure planning.
+
+![image](https://github.com/user-attachments/assets/7e950280-1312-43eb-8e76-aa26e0faff4d)
+
 **OVERVIEW**
 
 This project applies machine learning techniques to predict system functionality based on historical data. 
@@ -32,6 +38,8 @@ planning, and operational efficiency.
 
 Best Model: Random Forest (80% accuracy)
 
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/fd6fa332-c112-48e9-94ff-8f3d45c436cb" />
+
 Challenges: Class imbalance affecting minority class predictions
 
 **CONCLUSION**
@@ -49,6 +57,6 @@ The analysis provides valuable insights into the factors influencing system func
 
    Rainforest with an accuracy of 80%
    
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/fd6fa332-c112-48e9-94ff-8f3d45c436cb" />
+
 
 
