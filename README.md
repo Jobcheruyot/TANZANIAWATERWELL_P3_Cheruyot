@@ -44,3 +44,6 @@ The analysis provides valuable insights into the factors influencing system func
 3. Regular Data Updates – Continuously update and refine the dataset to improve prediction accuracy over time.
 4. Combine AI with Human Expertise – Use model results alongside expert knowledge for well-rounded decision-making.
 5. Monitor Model Performance – Evaluate and adjust the model periodically to adapt to changes in data patterns
+
+   ![image](https://github.com/user-attachments/assets/cd12b77a-2562-4c6f-9159-2fa7333a2aa0)
+
