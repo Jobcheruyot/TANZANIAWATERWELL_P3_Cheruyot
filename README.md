@@ -30,7 +30,7 @@ planning, and operational efficiency.
 
 **RESULTS**
 
-Best Model: Random Forest (72.72% accuracy)
+Best Model: Random Forest (80% accuracy)
 
 Challenges: Class imbalance affecting minority class predictions
 
