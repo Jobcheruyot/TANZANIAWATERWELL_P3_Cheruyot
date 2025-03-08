@@ -55,7 +55,6 @@ The analysis provides valuable insights into the factors influencing system func
 
    ![image](https://github.com/user-attachments/assets/cd12b77a-2562-4c6f-9159-2fa7333a2aa0)
 
-   Rainforest with an accuracy of 80%
    
 
 
