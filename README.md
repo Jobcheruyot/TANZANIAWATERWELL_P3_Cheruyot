@@ -1,19 +1,22 @@
-# TANZANIAWATERWELL_P3_Cheruyot
-#OVERVIEW
 
-This project applies machine learning techniques to predict system functionality based on historical data. Multiple models were tested, with Random Forest achieving the highest accuracy (72.72%). The analysis aims to support data-driven decision-making for resource allocation, maintenance planning, and operational efficiency.
+**OVERVIEW**
 
-#FEATURES
+This project applies machine learning techniques to predict system functionality based on historical data. 
+Multiple models were tested, with Random Forest achieving the highest accuracy (72.72%). 
+The analysis aims to support data-driven decision-making for resource allocation, maintenance 
+planning, and operational efficiency.
 
-Data preprocessing, including encoding categorical variables and feature scaling
+**FEATURES**
 
-Implementation of multiple classification models (Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors)
+1. Data preprocessing, including encoding categorical variables and feature scaling
 
-Performance evaluation using accuracy, classification reports, and confusion matrices
+2. Implementation of multiple classification models (Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors)
 
-Hyperparameter tuning to improve model performance
+3. Performance evaluation using accuracy, classification reports, and confusion matrices
 
-#PROCESS
+4. Hyperparameter tuning to improve model performance
+
+**PROCESS**
 
 Load Data: Ensure the dataset is properly formatted and uploaded.
 
@@ -24,7 +27,9 @@ Train Models: Execute the training cells to compare multiple classifiers.
 Evaluate Performance: Use confusion matrices and classification reports to analyze model accuracy.
 
 Optimize Model: Implement feature selection, hyperparameter tuning, and class balancing techniques to improve accuracy.
-#RESULTS
+
+**RESULTS**
+
 Best Model: Random Forest (72.72% accuracy)
 
 Challenges: Class imbalance affecting minority class predictions
